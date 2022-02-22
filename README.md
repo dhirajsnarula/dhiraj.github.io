@@ -1,2 +1,2 @@
-# dhiraj.github.io
+# dhirajsnarula.github.io
 Website
