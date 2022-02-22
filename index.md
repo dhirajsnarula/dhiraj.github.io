@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/dhirajsnarula/dhiraj.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-The about page can be found here: [About](dhiraj.xyz/about/) 
+The about page can be found here: [About](/about/) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
